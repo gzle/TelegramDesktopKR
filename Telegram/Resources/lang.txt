@@ -17,71 +17,71 @@ Copyright (c) 2014 John Preston, https://tdesktop.com
 */
 direction: "LTR";
 
-lng_maintitle: "Telegram D";
+lng_maintitle: "텔레그램 PC";
 
-lng_menu_contacts: "Contacts";
-lng_menu_settings: "Settings";
-lng_menu_about: "About";
+lng_menu_contacts: "연락처";
+lng_menu_settings: "설정";
+lng_menu_about: "정보";
 
-lng_open_from_tray: "Open Telegram";
-lng_minimize_to_tray: "Minimize to tray";
-lng_quit_from_tray: "Quit Telegram";
-lng_tray_icon_text: "Telegram is still running here,
-you can change this from settings page.
+lng_open_from_tray: "텔레그램 열기";
+lng_minimize_to_tray: "트레이로 보내기";
+lng_quit_from_tray: "텔레그램 종료";
+lng_tray_icon_text: "텔레그램이 트레이에서 실행 중입니다.
+설정에서 변경 가능합니다.
 
-If this icon disappears from tray menu,
-you can drag it back here from hidden icons.";
+이 아이콘이 트레이에서 사라졌다면,
+좌측 화살표를 눌러 보실 수 있습니다.";
 
-lng_month1: "January";
-lng_month2: "February";
-lng_month3: "March";
-lng_month4: "April";
-lng_month5: "May";
-lng_month6: "June";
-lng_month7: "July";
-lng_month8: "August";
-lng_month9: "September";
-lng_month10: "October";
-lng_month11: "November";
-lng_month12: "December";
+lng_month1: "1월";
+lng_month2: "2월";
+lng_month3: "3월";
+lng_month4: "4월";
+lng_month5: "5월";
+lng_month6: "6월";
+lng_month7: "7월";
+lng_month8: "8월";
+lng_month9: "9월";
+lng_month10: "10월";
+lng_month11: "11월";
+lng_month12: "12월";
 
-lng_weekday1: "Mon";
-lng_weekday2: "Tue";
-lng_weekday3: "Wed";
-lng_weekday4: "Thu";
-lng_weekday5: "Fri";
-lng_weekday6: "Sat";
-lng_weekday7: "Sun";
+lng_weekday1: "월요일";
+lng_weekday2: "화요일";
+lng_weekday3: "수요일";
+lng_weekday4: "목요일";
+lng_weekday5: "금요일";
+lng_weekday6: "토요일";
+lng_weekday7: "일요일";
 
 lng_month_day: "{month} {day}";
 
-lng_cancel: "Cancel";
-lng_continue: "Continue";
-lng_connecting: "Connecting...";
-lng_reconnecting: "Reconnect in %1 s...";
-lng_reconnecting_try_now: "Try now";
+lng_cancel: "닫기";
+lng_continue: "계속";
+lng_connecting: "연결 중...";
+lng_reconnecting: "%1 초 후에 재연결합니다...";
+lng_reconnecting_try_now: "지금 시도";
 
-lng_status_offline: "offline";
+lng_status_offline: "오프라인";
 lng_status_invisible: "invisible";
 lng_status_lastseen: "last seen {when}";
-lng_status_lastseen_now: "just now";
-lng_status_lastseen_minute: "%1 minute ago";
-lng_status_lastseen_minutes: "%1 minutes ago";
-lng_status_lastseen_hour: "%1 hour ago";
-lng_status_lastseen_hours: "%1 hours ago";
-lng_status_lastseen_today: "today at {time}";
-lng_status_lastseen_yesterday: "yesterday at {time}";
+lng_status_lastseen_now: "방금";
+lng_status_lastseen_minute: "%1 분 전";
+lng_status_lastseen_minutes: "%1 분 전";
+lng_status_lastseen_hour: "%1 시간 전";
+lng_status_lastseen_hours: "%1 시간 전";
+lng_status_lastseen_today: "오늘 {time}";
+lng_status_lastseen_yesterday: "어제 {time}";
 lng_status_lastseen_date: "{date}";
 lng_status_lastseen_date_time: "{date} at {time}";
-lng_status_online: "online";
+lng_status_online: "온라인";
 
 lng_chat_no_members: "Group is unaccessible";
-lng_chat_members: "%1 members";
-lng_chat_members_online: "%1 members, %2 online";
+lng_chat_members: "%1 명";
+lng_chat_members_online: "%1 명 중 %2 온라인";
 
 lng_server_error: "Internal server error.";
 lng_flood_error: "Too much tries. Please try again later.";
-lng_deleted: "Unknown";
+lng_deleted: "알 수 없음";
 
 lng_intro1: "Welcome to an unofficial [b]desktop[/b] client
 of [b]Telegram[/b] mobile messenger.";
